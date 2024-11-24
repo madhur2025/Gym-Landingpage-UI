@@ -1,1 +1,12 @@
-First task given by Tech OctaNet SERVICES PVT LTD<br>It's landing page for gym joiners in which different types of trainings<br>technology used : HTML and Css 
+# Gym Landing Page
+This is one of my basic project which is Gym Landing page. i created this project when i just started learning frontend. if you new to frontend learn and do practice by creating som landing pages.
+
+# Table of Content
+HTML
+CSS
+
+# Installation : To use this project
+
+1.  Download this Zip file of project
+2.  Extract ths folder
+3.  Run with your code editor
